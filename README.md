@@ -14,4 +14,8 @@ Voici la liste des différents fichiers proposés dans GraphicsSolutionATIUtilit
 			<td><b>MODE.PAS</b></td>
 			<td>Cette commande permet d'effectuer la gestion des paramètres d'un périphérique.</td>
 		</tr>	
+		<tr>
+			<td><b>MS.PAS</b></td>
+			<td>Cette commande permet de lancer le MultiSwitch, soit un clone de l'utilitaire <a href="https://www.gladir.com/LEXIQUE/CARD/graphicssolution.htm">Graphics Solution</a> d'ATI.</td>
+		</tr>	
 	</table>
