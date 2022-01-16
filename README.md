@@ -1,5 +1,5 @@
 # GraphicsSolutionATIUtilitaires
-Utilitaire pour la Graphics Solution d'ATI
+Utilitaire pour la carte vidéo <a href="https://www.gladir.com/LEXIQUE/CARD/graphicssolution.htm">Graphics Solution</a> d'ATI
 
 <h2>Liste des fichiers</h2>
 
