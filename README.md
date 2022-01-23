@@ -22,3 +22,7 @@ Voici la liste des différents fichiers proposés dans GraphicsSolutionATIUtilit
 			<td>Cette commande permet de lancer le MultiSwitch, soit un clone de l'utilitaire <a href="https://www.gladir.com/LEXIQUE/CARD/graphicssolution.htm">Graphics Solution</a> d'ATI.</td>
 		</tr>	
 	</table>
+
+Aperçu de la commande «MS.COM»
+
+![image](https://user-images.githubusercontent.com/11842176/150686711-ad910bfa-4c79-44c7-8ff7-aaa728102ff4.png)
